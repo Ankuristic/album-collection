@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
-import { GrAdd } from "react-icons/gr";
 
 
 const AddAlbum = (props) => {

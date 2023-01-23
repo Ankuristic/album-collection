@@ -2,10 +2,9 @@ import React, { Component } from 'react'
 import { Routes, Route } from "react-router-dom";
 import AddAlbum from './AddAlbum';
 import AlbumsList from './AlbumList';
-// import Navbar from './Navbar'
 import UpdateAlbum from './UpdateAlbum';
 
-export default class App extends Component {
+ class App extends Component {
   constructor() {
     super();
     this.state = {
@@ -121,4 +120,5 @@ export default class App extends Component {
   }
 }
 
+export default App;
 
