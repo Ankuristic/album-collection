@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 //get album from album list and show using html css and js
 const List = (props) => {
+  console.log(props);
   return (
     <div className='list'>
       <h3>{props.album.title}</h3>
