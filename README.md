@@ -73,7 +73,7 @@ After deployment this is a image
 
 
 ![image4](https://github.com/Ankuristic/album-collection/assets/63995112/d9592f80-b986-4bc3-bc6e-53f3a572d471)
-![image4](https://github.com/Ankuristic/album-collection/assets/63995112/d9592f80-b986-4bc3-bc6e-53f3a572d471)
+![image7](https://github.com/Ankuristic/album-collection/assets/63995112/18616e6e-b347-4067-a954-68dbb6c5db38)
 
 
 
